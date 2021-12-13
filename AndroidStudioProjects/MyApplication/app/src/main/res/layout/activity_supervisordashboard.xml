@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Supervisordashboard"
+    android:orientation="vertical"
+    android:background="@color/WhiteSmoke">
+
+
+    <TextView
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHALLAN LISTED "
+        android:textSize="40sp"
+        android:background="@color/WhiteSmoke"
+        android:textColor="@color/Black"
+        android:fontFamily="serif"
+        />
+
+    <ListView
+        android:id="@+id/challanlist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/Black"
+        android:dividerHeight="2dp"
+        android:background="@color/WhiteFort"
+        android:layout_marginTop="10dp"/>
+
+
+
+</LinearLayout>

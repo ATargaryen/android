@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ab8fd7a2a88200ada28c05c97833585d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b148325eadbc4ef62012615e178ddeaa/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/imponia/.gradle/caches/transforms-2/files-2.1/81255380d31c991017b1cce34f3bbd6b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c36efc64d1eb5b67ba759a5ad36e50ef/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3a3092a4b6c4934ee454c8e4d1fea30b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/27d044a3fabad6065c3e1f86c2c94996/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ac892e8e83d9f01e64fbbcebe6655277/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8d47fb61b017dcd0dfe1ac5df4e8d49d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/86255631a441bc610436a5ee11216aa1/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4ecd72cafd9fe4fe77f69a33c4730d93/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4f70edd513331155b6c4e517526125ec/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4d0c955ba5df54c4e1ff14b17066fb9e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/2d9ad5d32eed7dce7e4a376a0330bc71/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:4:3-64
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:4:20-62
+application
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b148325eadbc4ef62012615e178ddeaa/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b148325eadbc4ef62012615e178ddeaa/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4ecd72cafd9fe4fe77f69a33c4730d93/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4ecd72cafd9fe4fe77f69a33c4730d93/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.god.MainActivity
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ab8fd7a2a88200ada28c05c97833585d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ab8fd7a2a88200ada28c05c97833585d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ed2e7565d6c3314fe0aa868e313e324e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b148325eadbc4ef62012615e178ddeaa/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b148325eadbc4ef62012615e178ddeaa/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/imponia/.gradle/caches/transforms-2/files-2.1/81255380d31c991017b1cce34f3bbd6b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/imponia/.gradle/caches/transforms-2/files-2.1/81255380d31c991017b1cce34f3bbd6b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/74f8f73274d9dcf8fd8f3b24d4bd0277/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c36efc64d1eb5b67ba759a5ad36e50ef/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c36efc64d1eb5b67ba759a5ad36e50ef/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3a3092a4b6c4934ee454c8e4d1fea30b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3a3092a4b6c4934ee454c8e4d1fea30b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/c8f32ad010e82bd54ca6a8da9b5be0fe/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/0fe6a3b829484a54dd128ee344a77732/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/a0395d71a1ba1caa8e59fe40199e957f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/27d044a3fabad6065c3e1f86c2c94996/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/27d044a3fabad6065c3e1f86c2c94996/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ac892e8e83d9f01e64fbbcebe6655277/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ac892e8e83d9f01e64fbbcebe6655277/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8d47fb61b017dcd0dfe1ac5df4e8d49d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8d47fb61b017dcd0dfe1ac5df4e8d49d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/3131af011114bea5b4eed52e1f24a9ed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/426b41a412186af36330cd4ba591c080/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/ce1486f9e376beaf3344ecc4e42de2e0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/86255631a441bc610436a5ee11216aa1/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/86255631a441bc610436a5ee11216aa1/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4ecd72cafd9fe4fe77f69a33c4730d93/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4ecd72cafd9fe4fe77f69a33c4730d93/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4f70edd513331155b6c4e517526125ec/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4f70edd513331155b6c4e517526125ec/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4d0c955ba5df54c4e1ff14b17066fb9e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/4d0c955ba5df54c4e1ff14b17066fb9e/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/2d9ad5d32eed7dce7e4a376a0330bc71/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/2d9ad5d32eed7dce7e4a376a0330bc71/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d9fe85443cab1c88ffcf37acfa0a0435/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/b6c8ee27ae98490659d092834cc49b57/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/f5f78d2d3cc0f243e40b6e70d77cb4d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/750b5aeb9e1b3d70b70eb3d17bda3a8b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imponia/AndroidStudioProjects/God/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/507c124bd05496d89cae74a976cae236/jetified-firebase-database-19.3.0/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/8073dd5f6a1e18eead1ec1c9796e6e96/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/7e24a4853fa31e7c5a1f0896ed06ef34/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/imponia/.gradle/caches/transforms-2/files-2.1/d241a53f188ac92cfadf17d9dd615ec2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

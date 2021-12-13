@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14826983663",
+    "firebase_url": "https://godfirebaseproject-bef9a.firebaseio.com",
+    "project_id": "godfirebaseproject-bef9a",
+    "storage_bucket": "godfirebaseproject-bef9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14826983663:android:abd47390760bec26c44b1a",
+        "android_client_info": {
+          "package_name": "com.example.god"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14826983663-3rlrss0bagul9dren5tneuat2d9ieu8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.god",
+            "certificate_hash": "dcfbdc0ab65a9c854cb66660c8004da63dd75982"
+          }
+        },
+        {
+          "client_id": "14826983663-rbvksod22i8soetgegc9v4ull7ogbrsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8WwjyATYghcPj5NlHAqaCQIXjBwFXnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14826983663-rbvksod22i8soetgegc9v4ull7ogbrsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

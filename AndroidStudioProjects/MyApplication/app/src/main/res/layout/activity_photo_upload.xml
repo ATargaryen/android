@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhotoUpload"
+    android:background="@color/WhiteSmoke"
+
+    android:orientation="vertical"
+    >
+
+
+
+
+
+    <ImageView
+        android:id="@+id/imageframe"
+        android:layout_margin="45dp"
+        android:layout_marginStart="50dp"
+        android:layout_width="300dp"
+        android:background="@color/Gainsboro"
+        android:layout_height="300dp" />
+
+
+    <Button
+        android:id="@+id/Capturephoto"
+        android:layout_width="261dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="70dp"
+        android:background="@color/green"
+        android:fontFamily="serif"
+        android:text="Capture"
+        android:textSize="42sp" />
+
+    <Button
+        android:id="@+id/uploadphoto"
+        android:layout_width="261dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="70dp"
+        android:background="@color/Orange"
+        android:fontFamily="serif"
+        android:text="Upload"
+        android:textSize="42sp"
+
+        />
+
+
+    //server
+
+
+</LinearLayout>
